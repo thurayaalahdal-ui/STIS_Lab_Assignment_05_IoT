@@ -1,1 +1,0 @@
-# STIS_Lab_Assignment_05_IoT
